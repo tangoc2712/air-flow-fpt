@@ -1,0 +1,23 @@
+# Airflow logs
+logs/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,28 @@
+# Weather and Sales Relationship Analysis
+Date generated: 2025-04-24
+
+## Summary
+- How weather affects sales in different regions
+- Which products are most sensitive to weather changes
+- How different store sizes perform in various weather conditions
+
+## Key Conclusions
+### Weather Impact by Region
+Regional analysis: 
+
+### Weather-Sensitive Products
+Weather-sensitive products: 
+
+### Store Performance by Size in Different Weather Conditions
+Store performance by size: 
+
+
+## Detailed Insights
+
+### Regional Impact
+
+### Top Temperature-Sensitive Products
+
+### Top Rainfall-Sensitive Products
+
+### Store Performance by Size

@@ -1,0 +1,10 @@
+apache-airflow==2.7.1
+pandas==2.0.3
+apache-airflow-providers-postgres==5.6.0
+apache-airflow-providers-http==4.5.1
+psycopg2-binary==2.9.7
+requests==2.31.0
+python-dotenv==1.0.0
+sqlalchemy==1.4.49
+matplotlib==3.7.2
+seaborn==0.12.2
